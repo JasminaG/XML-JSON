@@ -1,0 +1,122 @@
+body {
+	background-image: url(slike/slika.png);
+	background-position: center top;
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+/*
+.text {
+	font-family: 'Dosis', sans-serif;
+	text-align: center;
+	color: red;
+	font-size: 25px;
+}
+h2 {
+	font-size: 75px;
+	font-weight: 400;
+	font-family: 'Cookie', cursive;
+	margin-bottom: 10px;
+}
+
+#demo small {
+	font-size: 18px;
+	margin-bottom: 10px;
+	color: #87141a;
+}
+
+*/
+.container{
+	display: block;
+}
+
+span#mySpan {
+    background-color:red;
+    display:table-row;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 70%;
+    background-color: grey;
+}
+
+td, th {
+    border: 1px solid purple;
+    text-align: center;
+    padding:10px;
+
+}
+th{
+	background-color: purple;
+	color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #ccc;
+}
+
+KATALOG{
+	background-image: url(slike/slika.png);
+	background-position: right;
+	background-attachment: fixed;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	
+}
+
+LAPTOP{
+	
+	
+	font-size: 35px;
+	height: 20px;
+	width: 300px;
+	
+}
+
+NAZIV{
+	color: red;
+	font-size: 20px; 
+
+}
+CIJENA{
+	color: purple;
+	font-size: 20px;
+	font-style: italic;
+
+}
+
+PROCESOR {
+	color: orange;
+	font-size: 20px;
+}
+RAM {
+	color: green;
+	font-size: 20px;
+}
+GRAFICKA {
+	color: blue;
+	font-size: 20px;
+}
+EKRAN {
+	color: green;
+	font-size: 20px;
+}
+MEMORIJA {
+	color: red;
+	font-size: 20px;
+}
+TOUCHS {
+	color: orange;
+	font-size: 20px;
+}
+BATERIJA {
+	color: skyblue;
+	font-size: 20px;
+}
+REZOLUCIJA{
+	color: purple;
+	font-size: 20px;
+}
